@@ -1,1 +1,0 @@
-print("animals".index("m"))

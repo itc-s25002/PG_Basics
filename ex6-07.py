@@ -1,1 +1,0 @@
-print("Sawyer" * 3)

@@ -35,6 +35,6 @@ def hangman(word):
 
 import random
 
-word_list = ["cat","dog","cut","dig","fun","sun","run","gas","bas","bat","but"]
+word_list = ["boooo","cat","dog","cut","dig","fun","sun","run","gas","bas","bat","but"]
 answer = random.choice(word_list)
 hangman(answer)
